@@ -6,3 +6,8 @@
 *.pdf
 *.rdf
 *.png
+*.csv
+*.pkl
+*.jpg
+__pycache__
+*.log
